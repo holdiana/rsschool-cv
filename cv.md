@@ -6,7 +6,7 @@
 **Contacts:**     
 
 *tel:*   +380974595840  
-*email:* diana.holoborodko@gmail.com 
+*email:* diana.holoborodko@gmail.com   
 *skype:* cemadi23
 
 >
@@ -39,8 +39,8 @@ maintenace of computer networks and systems, electronic technical, junior specia
 
 **Expirianse:**
 
-02.2020-05.2020 - layout course > StartUpKremenchuk\
-09.2020-02.2021 -Udemy course > Web Developer 2020
+02.2020-05.2020 - layout course _StartUpKremenchuk_   
+09.2020-02.2021 -Udemy course  _Web Developer 2020_  
 
 **My Project**
 1. [Landing page: Snow](https://diana2811-university.netlify.app)
