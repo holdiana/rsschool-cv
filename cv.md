@@ -7,6 +7,7 @@
 
 *tel:*   +380974595840  
 *email:* diana.holoborodko@gmail.com 
+*skype:* cemadi23
 
 >
 >
@@ -49,5 +50,5 @@ maintenace of computer networks and systems, electronic technical, junior specia
 **Languages:**
 
 - English Pre-Intermediate 
-
 - Ukranian native speaker  
+- Russian native speaker
